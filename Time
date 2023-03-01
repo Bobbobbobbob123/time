@@ -1,0 +1,6 @@
+<a href="https://time.is/New_York" id="time_is_link" rel="nofollow" style="font-size:36px">Time in New York:</a>
+<span id="New_York_z161" style="font-size:36px"></span>
+<script src="//widget.time.is/en.js"></script>
+<script>
+time_is_widget.init({New_York_z161:{template:"TIME<br>DATE<br>SUN", time_format:"12hours:minutes:secondsAMPM", date_format:"dayname, monthname dnum, year", sun_format:"Sunrise: srhour:srminute Sunset: sshour:ssminute<br>Day length: dlhoursh dlminutesm", coords:"40.7142700,-74.0059700"}});
+</script>
